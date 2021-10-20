@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-
+import 'prson.dart';
 void main() {
-  runApp(const MyApp());
+  runApp(mybusinesscard());
 }
 
 class MyApp extends StatelessWidget {
